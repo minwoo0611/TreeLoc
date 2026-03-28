@@ -1,0 +1,15 @@
+*
+!.gitignore
+!README.md
+!CMakeLists.txt
+!nanoflann.hpp
+!tree_localization_main.cpp
+!config/
+!config/**
+!include/
+!include/treeloc/
+!include/treeloc/**
+!src/
+!src/**
+!oxford_single_evo/
+!oxford_single_evo/**

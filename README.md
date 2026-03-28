@@ -19,8 +19,8 @@
 
 ### Recent Updates
 - [2026/03/28] We uploaded the full TreeLoc code.
-- [2026/02/12] Paper released on arXiv
-- [2026/02/12] Initial release of the TreeLoc repository
+- [2026/02/12] Paper released on arXiv.
+- [2026/02/12] Initial release of the TreeLoc repository.
 
 ### Contributions
 - **TreeLoc is a learning-free global localization framework for forests** that estimates accurate 6-DoF poses using compact tree-level representations.

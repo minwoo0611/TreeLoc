@@ -122,7 +122,7 @@ Run TreeLoc by passing only a config file:
 
 ### Acknowledgement
 
-We thank the Oxford Dynamic Robot Systems Group for releasing the Oxford Forest dataset and the RealtimeTrees project that enabled tree-level data extraction for this work.
+We thank the Oxford Dynamic Robot Systems Group for releasing the Oxford Forest dataset and the RealtimeTrees project that enabled tree-level data extraction for this work. This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No.RS-2024-00461409); the Technology Innovation Program (1415187329,20024355) funded by the Ministry of Trade, Industry & Energy (MOTIE,Korea); the Horizon Europe project DigiForest (101070405); and EPSRC Project Mobile Robotic Inspector (EP/Z531212/1) .
 
 If you use this repository, please cite:
 
